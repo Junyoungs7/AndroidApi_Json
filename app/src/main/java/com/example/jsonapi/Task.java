@@ -15,10 +15,10 @@ import java.net.URL;
 
 public class Task extends AsyncTask<String, String, String> {
 
-    String apiUrl = "http://ec2-65-0-17-235.ap-south-1.compute.amazonaws.com:8080/";
+    String apiUrl = "###########";
     String roadAd = "gc/";
     String latAndLong = "rgc/";
-    String address = "충청남도천안시서북구부대동275";
+    String address = "############";
     String str, receiveMsg;
     String data;
 
